@@ -8,7 +8,7 @@ public class Main {
 		// write a string s="My name is Sarvesh", reverse and 
 		//o/p = "hs evra Ss iemanyM"
 		
-		String str="My name is Sarvesh1";
+		String str="My name is Sarvesh12";
 		String strNoSpace;
 		String strRev = "";
 		ArrayList<Integer> spaceIndex= new ArrayList<Integer>();
